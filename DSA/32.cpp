@@ -1,4 +1,4 @@
-//for loop printing numbers
+//for loop     printing of numbers
 
 #include <iostream>
 using namespace std;
@@ -13,4 +13,5 @@ int main()
     {
         cout <<i <<endl;
     }
+    //cout <<endl;
 }
